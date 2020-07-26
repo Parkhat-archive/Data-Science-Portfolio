@@ -39,7 +39,7 @@ Project 13
 Sentiment Analysis of the Article showing Negative/Positive outcome
 
 Project 14
-Sentiment Analysis of the IMDB revievs usin Neural Network
+Sentiment Analysis of the IMDB reviews using Neural Network
 
 Project 15
 Stock Prediciton Using LSTM and Apple Dataset with Graph
