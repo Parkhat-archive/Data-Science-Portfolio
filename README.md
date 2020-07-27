@@ -1,18 +1,18 @@
 # Data-Science-Portfolio
 Project 1
-Aughmented Reality using OpenCV, linking video to the picture.
+Augmented Reality using OpenCV, linking video to the picture.
 
 Project 2
 Cancer Classifier using SVM machine learning and https://archive.ics.uci.edu Dataset, with Confusion Matrix Plot
 
 Project 3
-Car Classifier, string converted to numbers, model built using KNN, classifying state of the vehichels
+Car Classifier, string converted to numbers, model built using KNN, classifying state of the vehicles
 
 Project 4
 Chatbot using Neural Network and data from json file
 
 Project 5
-Chatbot using webscrapping an online Article 
+Chatbot using webscrapping from online Article 
 
 Project 6
 Image Classification using imported ImageNet Model
